@@ -21,7 +21,7 @@ gantt
 
 ```
 # PERT/CPM
-
+ ![PERT](pert.png)
 
 
 
