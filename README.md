@@ -18,7 +18,7 @@ gantt
 ```
 
 # PERT/CPM
-digraph {
+### digraph {
 	node[shape=record];
 	rankdir="LR";
     no1 [label = "取得授權 | 編號:1 | 開始:第1天 | 結束:第10天 | 需時:10天"]
