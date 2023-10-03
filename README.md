@@ -9,7 +9,6 @@
 gantt
     title A Gantt Diagram
 
-    section Section
     延擬計畫          :a1, 2023-10-03, 1d
     任務分配     :a2 , after a1  , 4d
     取得硬體   : a3 ,after a1  , 17d
@@ -21,6 +20,7 @@ gantt
     系統測試 : a9,after a6  , 25d
     使用者訓練 : a10,after a7 a8  , 20d
     使用者測試 : a11,after a9 a10  , 25d
+
 ```
 # PERT/CPM
 
